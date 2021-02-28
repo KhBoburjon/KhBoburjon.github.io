@@ -1,0 +1,29 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+
+}
+h2{
+    color:#F95700FF;
+}
+a{
+    color: chartreuse;
+    text-decoration: none;
+}
+
+p {
+
+    font-size: 20px;
+}
+/* *********************** Image Section ******************** */
+.my-mood{
+   text-align: center;
+}
+.my-mood img:nth-child(n){
+    width: 20%;
+    height: 300px;
+}
